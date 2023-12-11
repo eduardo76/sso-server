@@ -1,0 +1,15 @@
+Personal access client created successfully.
+Client ID: 9ad198e8-9b46-4606-9e07-2a09a3cf462e
+Client secret: M1fD1YWJ2VZxZ0X8bWmyH7Rk69o1atZ1kLBBj2c9
+
+Password grant client created successfully.
+Client ID: 9ad198e8-a1a3-47dd-834c-a3efdded6487
+Client secret: jDZ5NsfUxuERtdGzMUN8eopCgFzKUB6o1wGgvSLI
+
+
+
+New client created successfully.
+Client ID: 9ad19e87-d1b9-4fd0-9ade-95ce7eb8e468
+Client secret: b8WCyGLryRE1ttELgyK51wwpJ0TgTL7CQHdkppK9
+https://social-auth.test/auth/callback
+
